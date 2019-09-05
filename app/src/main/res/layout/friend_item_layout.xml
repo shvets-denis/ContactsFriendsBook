@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="horizontal"
+    android:padding="@dimen/paddingItemFriendList">
+
+    <ImageView
+        android:id="@+id/imageViewLogoFriend"
+        android:layout_width="@dimen/sizeLogoFriendList"
+        android:layout_height="@dimen/sizeLogoFriendList"
+        android:src="@mipmap/def_user_ic" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/paddingItemFriendList"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewNameFriend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unknown_string"
+            android:textSize="@dimen/sizeTextItemFriendNameList" />
+
+        <TextView
+            android:id="@+id/textViewPhoneFriend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unknown_string"
+            android:textSize="@dimen/sizeTextItemFriendPhoneList" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageViewDelete"
+        android:layout_width="@dimen/sizeButtonFriendList"
+        android:layout_height="@dimen/sizeButtonFriendList"
+        android:layout_marginLeft="@dimen/paddingItemFriendList"
+        android:src="@mipmap/delete_user_ic" />
+
+    <ImageView
+        android:id="@+id/imageViewOpen"
+        android:layout_width="@dimen/sizeButtonFriendList"
+        android:layout_height="@dimen/sizeButtonFriendList"
+        android:layout_marginLeft="@dimen/paddingItemFriendList"
+        android:src="@mipmap/open_user_ic" />
+
+</LinearLayout>

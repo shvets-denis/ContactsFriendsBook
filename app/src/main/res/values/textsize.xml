@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTextTopToolBar">18sp</dimen>
+    <dimen name="sizeTextItemFriendNameList">19sp</dimen>
+    <dimen name="sizeTextItemFriendPhoneList">16sp</dimen>
+    <dimen name="sizeTextFriendInfoList">17sp</dimen>
+</resources>

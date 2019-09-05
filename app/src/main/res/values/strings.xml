@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactsFriendsBook</string>
+    <string name="unknown_string">unknown</string>
+    <string name="email_string">E-mail:</string>
+    <string name="mobile_phone_string">Mobile phone:</string>
+    <string name="gender_string">Gender:</string>
+    <string name="gender_male_string">Male</string>
+    <string name="gender_female_string">Female</string>
+    <string name="add_friend_string">Add friend</string>
+</resources>

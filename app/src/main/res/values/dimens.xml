@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="heightTopToolBar">50dp</dimen>
+    <dimen name="sizeItemTopToolBar">45dp</dimen>
+    <dimen name="sizeLogoTopToolBar">40dp</dimen>
+    <dimen name="marginLeftTitleTopToolBar">10dp</dimen>
+    <dimen name="marginItemTopToolBar">5dp</dimen>
+    <dimen name="sizeLogoFriendList">90dp</dimen>
+    <dimen name="paddingItemFriendList">5dp</dimen>
+    <dimen name="sizeButtonFriendList">40dp</dimen>
+    <dimen name="sizeLogoFriendInfo">120dp</dimen>
+    <dimen name="paddingFriendInfo">15dp</dimen>
+    <dimen name="paddingItemFriendInfo">5dp</dimen>
+    <dimen name="sizeDeleteFriendInfo">50dp</dimen>
+    <dimen name="paddingTopFriendInfo">10dp</dimen>
+</resources>
